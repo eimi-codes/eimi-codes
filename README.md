@@ -15,7 +15,8 @@
 **If you are reaching out about a project/repository**, please use the relevant Issue or Discussions page. 
 
 - [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.ie/@eimi)
-- [Bluesky](https://bsky.app/profile/eimi.irish)
+- [![Bluesky](https://img.shields.io/badge/Bluesky-%230285FF?style=for-the-badge&logo=Bluesky&logoColor=white&labelColor=%230285FF)
+](https://bsky.app/profile/eimi.irish)
 - [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)](https://eimiandcoffee.tumblr.com/)
 
 ## Sponsor
