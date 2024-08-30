@@ -1,14 +1,14 @@
 # Hello! I'm Éimí. 👩🏻‍💻
 
-- Hi! I’m Éimí, a 26-year-old Irish woman living in the North-East of Scotland. 
-- I’m a Computing & IT and Design student at [the Open University](https://www.open.ac.uk/), with a keen interest in Accessibility, Web Development, and Design. 
-- I’m passionate about the Irish language (ag foghlaim Gaeilge), European Politics, and Video Games. I’m also a proud bi woman and wheelchair user. My pronouns are She/Her (Sí/Í). 
-- I make the occasional game mod, but I'm currently learning TypeScript and React so that I can make better web applications. 
+- Hi! I’m Éimí, a 26-year-old Irish woman living in the North-East of Scotland. 🇮🇪🏴󠁧󠁢󠁳󠁣󠁴󠁿
+- I’m a Computing & IT and Design student at [the Open University](https://www.open.ac.uk/), with a keen interest in Accessibility, Web Development, and Design,
+- I’m passionate about the Irish language (ag foghlaim Gaeilge), European Politics, and Video Games. I’m also a proud bi woman and wheelchair user. My pronouns are She/Her (Sí/Í),
+- I make the occasional game mod, but I'm currently learning TypeScript and React so that I can make better web applications,
 - I don't like platform/console/OS wars, so I use a variety of devices and services, and I try to make my code cross-platform.
 
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white).
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## Reach me on the Web
 
